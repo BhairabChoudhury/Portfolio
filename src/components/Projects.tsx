@@ -15,7 +15,7 @@ export const Projects = () => {
         'Designed context-aware AI chat and a reminder system for tracking deadlines for internships, hackathons, and scholarship programs.',
       ],
       github: 'https://github.com/BhairabChoudhury/Brain-Cache-',
-      live: '',
+      live: 'https://brain-cache-mu.vercel.app',
       themeColor: 'rgba(99, 102, 241, 0.15)',
       borderColor: 'rgba(99, 102, 241, 0.3)',
       glowColor: '0 0 25px rgba(99, 102, 241, 0.25)',
