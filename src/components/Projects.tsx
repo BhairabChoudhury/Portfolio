@@ -31,7 +31,7 @@ export const Projects = () => {
         'Developed robust REST APIs and an interactive frontend dashboard for resume upload, automated scoring, and PDF report generation.',
       ],
       github: 'https://github.com/BhairabChoudhury/AI-Powered-Resume-Analyzer',
-      live: 'https://ai-powered-resume-analyzer-d4y8.vercel.app',
+      live: 'https://ai-powered-resume-analyzer-d4y8.vercel.app/',
       themeColor: 'rgba(168, 85, 247, 0.15)',
       borderColor: 'rgba(168, 85, 247, 0.3)',
       glowColor: '0 0 25px rgba(168, 85, 247, 0.25)',
