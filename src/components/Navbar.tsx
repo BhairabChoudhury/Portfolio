@@ -112,7 +112,7 @@ export const Navbar = () => {
             <a href="https://github.com/bhairabchoudhury" target="_blank" rel="noreferrer" className="social-icon-btn">
               <GitHubIcon size={22} />
             </a>
-            <a href="https://linkedin.com/in/bhairabchoudhury" target="_blank" rel="noreferrer" className="social-icon-btn">
+            <a href="https://www.linkedin.com/in/bhairab-choudhury-a90158326/" target="_blank" rel="noreferrer" className="social-icon-btn">
               <LinkedInIcon size={22} />
             </a>
           </div>
