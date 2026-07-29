@@ -50,7 +50,7 @@ export const Hero = () => {
           <div className="stat-card glass-card">
             <Cpu className="stat-icon icon-emerald" />
             <div className="stat-info">
-              <h3>450+ Solved</h3>
+              <h3>550+ Solved</h3>
               <p>LeetCode Problems</p>
             </div>
           </div>
