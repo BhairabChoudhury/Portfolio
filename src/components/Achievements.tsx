@@ -13,7 +13,7 @@ export const Achievements = () => {
       icon: <Award className="ach-icon icon-violet" />,
     },
     {
-      title: '450+ LeetCode Solved',
+      title: '550+ LeetCode Solved',
       desc: 'Demonstrated strong problem-solving skills in data structures, algorithms, and mathematical logic.',
       icon: <Code className="ach-icon icon-blue" />,
     },
