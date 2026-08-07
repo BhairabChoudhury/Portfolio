@@ -10,7 +10,7 @@ export const Skills = () => {
     {
       title: 'Frameworks & Frontend',
       icon: <Layers className="category-icon" />,
-      skills: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'Angular', 'Django', 'Figma', 'jQuery', 'WordPress','REST API','Software Design'],
+      skills: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'Angular', 'Django', 'Figma', 'jQuery','REST API','Software Design'],
     },
     {
       title: 'Databases',
@@ -20,17 +20,17 @@ export const Skills = () => {
     {
       title: 'AI/ML & Libraries',
       icon: <BrainCircuit className="category-icon" />,
-      skills: ['NLP', 'LangChain', 'RAG (RAG Pipelines)', 'NumPy', 'Pandas', 'Matplotlib'],
+      skills: ['NLP', 'LangChain', 'RAG', 'NumPy', 'Pandas', 'Matplotlib'],
     },
     {
       title: 'Tools & DevOps',
       icon: <Wrench className="category-icon" />,
-      skills: ['Git', 'GitHub', 'Postman', 'Docker', 'AWS', 'Shopify', 'WordPress'],
+      skills: ['Git', 'GitHub', 'Postman', 'Docker', 'AWS', 'WordPress'],
     },
     {
       title: 'Core Concepts & Softskills',
       icon: <HeartHandshake className="category-icon" />,
-      skills: ['Data Structures & Algorithms', 'OOP', 'DBMS', 'OS', 'Communication', 'Problem-solving', 'Analytical thinking'],
+      skills: ['Data Structures & Algorithms', 'OOP', 'DBMS', 'OS', 'Communication', 'Problem-solving'],
     },
   ];
 
