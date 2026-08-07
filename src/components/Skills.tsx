@@ -10,7 +10,7 @@ export const Skills = () => {
     {
       title: 'Frameworks & Frontend',
       icon: <Layers className="category-icon" />,
-      skills: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'Angular', 'Django', 'Springboot', 'Figma', 'jQuery'],
+      skills: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'Angular', 'Django', 'Figma', 'jQuery', 'WordPress','REST API','Software Design'],
     },
     {
       title: 'Databases',
